@@ -28,6 +28,14 @@ This project analyzes 1,000 e-commerce orders to identify sales patterns, compar
 
 The dashboard presents five key performance indicators and four charts covering monthly trends, regional revenue, top products, and category profit.
 
+### Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Analysis_Dashboard.png)
+
+### Business Insights Preview
+
+![Business Insights and Recommendations](Sales_Business_Insights.png)
+
 **Key Performance Indicators**
 
 | Metric | Result |
