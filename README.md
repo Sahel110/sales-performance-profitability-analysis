@@ -76,3 +76,5 @@ The dashboard presents five key performance indicators and four charts covering 
 
 Sample e-commerce data based on the dataset resources provided by Trump Excel:  
 https://trumpexcel.com/excel-sample-data/
+
+**Dataset Note:** This project uses sample e-commerce data for portfolio and analytical practice purposes. The findings reflect the provided dataset and should not be interpreted as results from a real business.
