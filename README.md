@@ -44,7 +44,7 @@ The dashboard presents five key performance indicators and four charts covering 
 | Total Recorded Profit | $28,148.13 |
 | Number of Orders | 1,000 |
 | Average Order Value | $90.20 |
-| Overall Profit Margin | 31.21% |
+| Recorded Profit Margin | 31.21% |
 
 ## Key Findings
 
