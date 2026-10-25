@@ -1,25 +1,5 @@
 # Sales Performance & Profitability Analysis
 
-### تحلیل عملکرد فروش و سودآوری
-
-این پروژه با استفاده از Google Sheets برای تحلیل داده‌های فروش، بررسی سودآوری و ارائه بینش‌های کاربردی کسب‌وکار طراحی شده است.
-
-**بخش‌های اصلی پروژه:**
-- پاک‌سازی و سازمان‌دهی داده‌ها
-- تحلیل شاخص‌های کلیدی عملکرد (KPI)
-- ساخت داشبورد و نمودارهای تحلیلی
-- بررسی عملکرد فروش بر اساس زمان، منطقه و محصول
-- استخراج بینش‌های کاربردی برای تصمیم‌گیری بهتر
-
-**خدمات فریلنسری:**
-
-ارائه خدمات پروژه‌ای تحلیل داده، طراحی داشبورد فروش و گزارش‌سازی با Google Sheets، بر اساس محدوده کار، مبلغ ثابت و مهلت تحویل توافق‌شده.
-
-ارتباط با مشتری به‌صورت غیرهم‌زمان و از طریق پیام یا ایمیل انجام می‌شود.
-
-**مشاهده پروژه:** [Sales Performance & Profitability Analysis](https://github.com/Sahel110/sales-performance-profitability-analysis)
-
-
 A data analysis and business reporting project built with Google Sheets to evaluate e-commerce sales, recorded profit, product performance, and business trends.
 
 ## Project Overview
