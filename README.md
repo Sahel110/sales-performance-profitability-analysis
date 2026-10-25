@@ -78,3 +78,11 @@ Sample e-commerce data based on the dataset resources provided by Trump Excel:
 https://trumpexcel.com/excel-sample-data/
 
 **Dataset Note:** This project uses sample e-commerce data for portfolio and analytical practice purposes. The findings reflect the provided dataset and should not be interpreted as results from a real business.
+
+## Freelance Services
+
+I offer project-based services in data analysis, sales and profitability reporting, and Google Sheets dashboard development.
+
+Projects are completed for an agreed fixed fee, with clearly defined deliverables and deadlines. Communication is asynchronous through written messages or email, with responses provided as promptly as reasonably possible.
+
+For freelance project inquiries, please contact me through [LinkedIn](https://www.linkedin.com/in/sahel-g-5a619a1bb/?isSelfProfile=true).
