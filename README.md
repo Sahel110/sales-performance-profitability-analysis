@@ -34,7 +34,6 @@ The dashboard presents five key performance indicators and four charts covering 
 
 ### Business Insights Preview
 
-![Business Insights and Recommendations](Sales_Business_Insights.png)
 
 **Key Performance Indicators**
 
